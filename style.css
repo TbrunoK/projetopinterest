@@ -1,3 +1,13 @@
+a {
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  gap: 24px;
+}
+
 img {
   width: 100%;
 }
