@@ -1,4 +1,4 @@
-![image](https://github.com/TbrunoK/projetopinterest/assets/86078571/7b8dee1a-0e8d-4c54-9ba7-e5955131e42d)# Portfólio de Imagens de Projetos de Desenvolvimento Web
+# Portfólio de Imagens de Projetos de Desenvolvimento Web
 
 Este projeto consiste em um simples site HTML que exibe uma coleção de imagens relacionadas ao desenvolvimento web, como capturas de tela de páginas HTML e CSS. O objetivo deste projeto é fornecer uma maneira rápida e fácil de visualizar essas imagens.
 
