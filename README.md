@@ -25,9 +25,7 @@ O projeto inclui dois arquivos:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
 
 <div aling="center">
-  <a href="https://tbrunok.github.io/nlw-unite-01/">
     <img src="https://github.com/TbrunoK/projetopinterest/blob/main/assets/Finished.png?raw=true"/>
-  </a>
 </div>
 
 
